@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  #resume {
+    height: 200px;
+    width: 50%;
+  }
+.container-md  {
+  height: 30rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+.footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #71a8cf;
+    border-top: .05rem solid #7a7676;
+}
+
+.nav-link {
+    color: black;
+}
+.btn-outline-info {
+  color: #0d1cf0;
+  border-color: #0d1cf0;
+}
+.container-title {
+  text-decoration: underline;
+}
+.container { width: 1920px !important; }
